@@ -8,7 +8,7 @@
     "serve": "vite preview"
   },
   "dependencies": {
-    "@highlightjs/vue-plugin": "^2.1.0",
+    "@highlightjs/vue-plugin": "^2.1.1",
     "arweave": "^1.10.18",
     "arweave-wallet-connector": "file:..",
     "buffer": "^6.0.3",
