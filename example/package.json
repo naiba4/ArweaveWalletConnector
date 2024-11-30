@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "@highlightjs/vue-plugin": "^2.1.0",
-    "arweave": "^1.10.18",
+    "arweave": "^1.12.3",
     "arweave-wallet-connector": "file:..",
     "buffer": "^6.0.3",
     "highlight.js": "^11.3.1",
@@ -19,6 +19,6 @@
     "@types/node": "^16.11.0",
     "@vitejs/plugin-vue": "^4.1.0",
     "typescript": "^5.0.2",
-    "vite": "^4.2.1"
+    "vite": "^6.0.0"
   }
 }
